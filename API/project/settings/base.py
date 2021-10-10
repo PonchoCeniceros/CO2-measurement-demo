@@ -1,3 +1,4 @@
+import os
 from unipath import Path
 from decouple import config
 
@@ -25,6 +26,7 @@ DJANGO_APPS = (
 )
 
 LOCAL_APPS = (
+	'applications.devices',
     #
 )
 
@@ -69,7 +71,10 @@ ROOT_URLCONF = "project.urls"
 TEMPLATES = [
     {
         "BACKEND": "django.template.backends.django.DjangoTemplates",
-        "DIRS": [],
+        "DIRS": [
+            # adding template
+            os.path.join(BASE_DIR, 'templates'),
+        ],
         "APP_DIRS": True,
         "OPTIONS": {
             "context_processors": [
@@ -112,11 +117,11 @@ LANGUAGE_CODE = "en-us"
 
 TIME_ZONE = config("TIME_ZONE")
 
-USE_I18N = True
+DATETIME_FORMAT = "%Y-%m-%d%H:%M:%S"
 
-USE_L10N = True
+L10N = False
 
-USE_TZ = True
+USE_TZ = False
 
 #
 # DEFAULT PRIMARY KEY FIEDL TYPE
