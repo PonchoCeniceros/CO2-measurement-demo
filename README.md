@@ -1,6 +1,43 @@
 <p align="center">
-  <img width="460" height="300" src="https://github.com/PonchoCeniceros/PyAPI/blob/master/.imgs/pyapi-logo.png">
+  <img width="460" height="300" src=".imgs/pyapi-logo.png">
 </p>
+
+
+<p align="left" style="float: left; width: 5%;">
+	<img width="45" height="25" src=".imgs/GET.png">
+	<p style="float: left; width: 90%;">
+		ejemplo de un endopoint para GET. 
+	</p>
+</p>
+<br/>
+<br/>
+
+<p align="left" style="float: left; width: 5%;">
+	<img width="45" height="25" src=".imgs/POST.png">
+	<p style="float: left; width: 90%;">
+		ejemplo de un endopoint para POST. 
+	</p>
+</p>
+<br/>
+<br/>
+
+<p align="left" style="float: left; width: 5%;">
+	<img width="45" height="25" src=".imgs/UPDATE.png">
+	<p style="float: left; width: 90%;">
+		ejemplo de un endopoint para UPDATE. 
+	</p>
+</p>
+<br/>
+<br/>
+
+<p align="left" style="float: left; width: 5%;">
+	<img width="45" height="25" src=".imgs/DELETE.png">
+	<p style="float: left; width: 90%;">
+		ejemplo de un endopoint para DELETE. 
+	</p>
+</p>
+<br/>
+<br/>
 
 This repository contains the structure of a REST architecture project implemented with the django framework. 
 
