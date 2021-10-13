@@ -23,9 +23,9 @@
 
 <p align="left" style="float: left; width: 5%;">
 	<img width="45" height="25" src=".imgs/UPDATE.png">
-	<p style="float: left; width: 50%;">
-		ejemplo de un endopoint para UPDATE. This repository contains the structure of a REST architecture project implemented with the django framework. 
-	</p>
+</p>
+<p style="float: left; width: 50%;">
+ejemplo de un endopoint para UPDATE. This repository contains the structure of a REST architecture project implemented with the django framework. 
 </p>
 <br/>
 <br/>
