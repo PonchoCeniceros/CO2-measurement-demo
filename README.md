@@ -5,7 +5,7 @@
 
 <p align="left" style="float: left; width: 5%;">
 	<img width="45" height="25" src=".imgs/GET.png">
-	<p style="float: left; width: 90%;">
+	<p style="float: left; width: 50%;">
 		ejemplo de un endopoint para GET. 
 	</p>
 </p>
@@ -14,7 +14,7 @@
 
 <p align="left" style="float: left; width: 5%;">
 	<img width="45" height="25" src=".imgs/POST.png">
-	<p style="float: left; width: 90%;">
+	<p style="float: left; width: 50%;">
 		ejemplo de un endopoint para POST. 
 	</p>
 </p>
@@ -23,8 +23,8 @@
 
 <p align="left" style="float: left; width: 5%;">
 	<img width="45" height="25" src=".imgs/UPDATE.png">
-	<p style="float: left; width: 90%;">
-		ejemplo de un endopoint para UPDATE. 
+	<p style="float: left; width: 50%;">
+		ejemplo de un endopoint para UPDATE. This repository contains the structure of a REST architecture project implemented with the django framework. 
 	</p>
 </p>
 <br/>
@@ -32,7 +32,7 @@
 
 <p align="left" style="float: left; width: 5%;">
 	<img width="45" height="25" src=".imgs/DELETE.png">
-	<p style="float: left; width: 90%;">
+	<p style="float: left; width: 50%;">
 		ejemplo de un endopoint para DELETE. 
 	</p>
 </p>
