@@ -1,8 +1,6 @@
 
-<p style="float: left; width: 5%;">
-	<img width="45" height="25" src=".imgs/DELETE.png"><div style="float: left; width: 5%;">Holi</div>
-</p>
-HOla
+<img width="45" height="25" style="float: left; width: 5%;" src=".imgs/DELETE.png">
+<div style="float: left; width: 5%;">Holi</div>
 <br/>
 <br/>
 
