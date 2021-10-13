@@ -1,6 +1,6 @@
 
 <img width="45" height="25" style="float: left; width: 5%;" src=".imgs/DELETE.png">
-<div style="background-position: 90% -1.75%; background-color: #248fb2;">Holi</div>
+<span style="background-position: 90% -1.75%; background-color: #248fb2;">Holi</span>
 <br/>
 <br/>
 
