@@ -1,11 +1,11 @@
 
-<img width="45" height="25" style="float: left; width: 5%;" src=".imgs/DELETE.png">
+<img width="45" height="25" align="left" width="200px" src=".imgs/DELETE.png">This repository contains the structure of a REST architecture project implemented with the django framework. 
 <span style="float: right; width: 5%;">Holi</span>
 <br/>
 <br/>
 
 
-This repository contains the structure of a REST architecture project implemented with the django framework. 
+
 
 
 ## Structure 🗂
