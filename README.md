@@ -30,6 +30,8 @@ ejemplo de un endopoint para UPDATE. This repository contains the structure of a
 <br/>
 <br/>
 
+<img width="45" height="25" src=".imgs/DELETE.png"> # HOLI
+
 <p align="left" style="float: left; width: 5%;">
 	<img width="45" height="25" src=".imgs/DELETE.png">
 	<p style="float: left; width: 50%;">
